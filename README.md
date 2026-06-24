@@ -28,3 +28,4 @@ Treni is available on the [App Store](https://apps.apple.com/app/id6780897533).
 ---
 
 *Transit data for supported networks is used under their respective terms. Treni is an independent game and is not affiliated with any transit operator.*
+
